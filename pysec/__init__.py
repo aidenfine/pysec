@@ -3,6 +3,7 @@ import imutils
 from cvzone.PoseModule import PoseDetector
 import cvzone
 from datetime import datetime
+
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
