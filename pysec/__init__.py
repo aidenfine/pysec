@@ -4,12 +4,12 @@ from cvzone.PoseModule import PoseDetector
 import cvzone
 from datetime import datetime
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
 
 detector = PoseDetector()
-distance = PoseDetector.findDistance()
+# distance = PoseDetector.findDistance()
 
 motion = False
 counter = 0

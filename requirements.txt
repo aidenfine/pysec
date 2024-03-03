@@ -3,6 +3,16 @@ imutils==0.5.4
 numpy==1.26.4
 opencv-python==4.9.0.80
 mediapipe==0.10.9
-tensorflow==2.10.0
 remotezip==0.12.3
 tqdm==4.66.2
+
+
+# """
+# cvzone = "==1.6.1"
+# imutils = "==0.5.4"
+# numpy = "==1.26.4"
+# opencv-python = "==4.9.0.80"
+# mediapipe = "==0.10.9"
+# remotezip = "==0.12.3"
+# tqdm = "==4.66.2"
+# """
